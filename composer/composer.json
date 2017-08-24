@@ -1,0 +1,8 @@
+{
+    "name": "ilhafloripatec/composer",
+    "description": "Projeto sobre utilizacao do composer",
+    "type": "project",
+    "minimum-stability": "dev",
+    "require": {"monolog/monolog":"1.0.*"
+    }
+}
